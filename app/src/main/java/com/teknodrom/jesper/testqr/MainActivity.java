@@ -24,7 +24,7 @@ public class MainActivity extends ActionBarActivity implements OnClickListener {
     private Button scanBtn;
     private TextView formatTxt, contentTxt;
 
-    //test comment. please remove
+    //test comment.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
